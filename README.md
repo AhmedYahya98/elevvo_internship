@@ -95,7 +95,6 @@ Data augmentation and comparison between custom CNN and MobileNet.
 | Visualization | `Matplotlib`, `Seaborn` |
 | Machine Learning | `Scikit-learn`, `XGBoost`, `LightGBM` |
 | Deep Learning | `TensorFlow`, `Keras`, `OpenCV` |
-| Audio/Signal | `Librosa` (for optional audio tasks) |
 
 ---
 
