@@ -113,8 +113,7 @@ All datasets are publicly available and used for educational purposes.
 ## 🏅 Evaluation & Submission
 
 According to the internship guidelines:
-- Tasks were submitted before the program deadline.  
-- Each project is shared publicly on GitHub and summarized in a **LinkedIn post**, tagging [Elevvo](https://www.linkedin.com/company/elevvo) as part of the internship deliverables.  
+- Tasks were submitted before the program deadline.    
 - Bonus tasks contributed to “High Achiever” or “Outstanding Contributor” recognition.
 
 ---
